@@ -14,6 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
 
-
+[![Yevhenns's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevhenns)](https://github.com/anuraghazra/github-readme-stats)
 
