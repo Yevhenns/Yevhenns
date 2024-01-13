@@ -5,6 +5,7 @@
 ### Technologies
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=Sass&logoColor=pink&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=Typescript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&labelColor=black)
