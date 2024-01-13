@@ -17,7 +17,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)
-![Static Badge](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=Mongodb&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Mongo_DB-green?style=for-the-badge&logo=Mongodb&labelColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
 
