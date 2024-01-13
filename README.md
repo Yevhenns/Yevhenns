@@ -8,8 +8,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=blue&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=Sass&logoColor=pink&labelColor=white)
 
-![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=Typescript&labelColor=black)
-![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Type_Script-blue?style=for-the-badge&logo=Typescript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Java_Script-yellow?style=for-the-badge&logo=JavaScript&labelColor=black)
 
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
@@ -20,6 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/Mongo_DB-green?style=for-the-badge&logo=Mongodb&labelColor=white)
 
 ![Static Badge](https://img.shields.io/badge/GitLab-yellow?style=for-the-badge&logo=Gitlab&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&labelColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
 
