@@ -19,6 +19,8 @@
 ![Static Badge](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express)
 ![Static Badge](https://img.shields.io/badge/Mongo_DB-green?style=for-the-badge&logo=Mongodb&labelColor=white)
 
+![Static Badge](https://img.shields.io/badge/GitLab-yellow?style=for-the-badge&logo=Gitlab&labelColor=black)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
 
 [![Yevhenns's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevhenns)](https://github.com/anuraghazra/github-readme-stats)
