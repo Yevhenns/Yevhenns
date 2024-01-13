@@ -1,6 +1,7 @@
 ### Hi there, I'm Yevhen 👋
 
-[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyevhen-ziuskin-031b7b23b)](https://www.linkedin.com/in/yevhen-ziuskin-031b7b23b/)
+[![Static Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yevhen-ziuskin-031b7b23b/)
+[![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=white)](https://t.me/Yevhen_1990)
 
 ### Technologies
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&labelColor=white)
