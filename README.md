@@ -26,3 +26,5 @@
 
 [![Yevhenns's GitHub stats](https://github-readme-stats.vercel.app/api?username=yevhenns)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Yevhen Ziuskin profile views](https://u8views.com/api/v1/github/profiles/103356318/views/day-week-month-total-count.svg)](https://u8views.com/github/Yevhenns)
+
