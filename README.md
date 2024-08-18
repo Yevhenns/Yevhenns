@@ -23,6 +23,3 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&labelColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
-
-[![Yevhen Ziuskin profile views](https://u8views.com/api/v1/github/profiles/103356318/views/day-week-month-total-count.svg)](https://u8views.com/github/Yevhenns)
-
