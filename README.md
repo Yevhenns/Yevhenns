@@ -23,4 +23,3 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=Github&labelColor=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
