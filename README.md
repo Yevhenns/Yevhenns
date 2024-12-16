@@ -6,7 +6,7 @@
 ### Technologies
 * HTML, CSS, SCSS, Tailwind;
 * JavaScript, TypeScript;
-* React, React-Native, Redux;
+* React, Next.js, React-Native, Redux;
 * Vue.js, Nuxt, Pinia;
 * Node.js, Express, NestJS, MongoDB;
 
