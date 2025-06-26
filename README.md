@@ -8,6 +8,6 @@
 * JavaScript, TypeScript;
 * React, Next.js, React-Native, Redux;
 * Vue.js, Nuxt, Pinia;
-* Node.js, Express, NestJS, MongoDB;
+* Node.js, Express, NestJS, PostgreSQL, TypeORM, MongoDB;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
