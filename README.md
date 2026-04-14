@@ -15,5 +15,3 @@
 #### Embedded / Hardware:
 * C++ (basic, Arduino ecosystem);
 * Arduino, ESP32;
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
