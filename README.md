@@ -4,10 +4,16 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=white)](https://t.me/Yevhen_1990)
 
 ### Technologies
+#### Frontend:
 * HTML, CSS, SCSS, Tailwind;
 * JavaScript, TypeScript;
 * React, Next.js, React-Native, Redux;
 * Vue.js, Nuxt, Pinia;
-* Node.js, Express, NestJS, PostgreSQL, TypeORM, MongoDB;
+#### Backend:
+* Node.js, Express, NestJS;
+* PostgreSQL, TypeORM, MongoDB;
+#### Embedded / Hardware:
+* C++ (basic, Arduino ecosystem);
+* Arduino, ESP32;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenns&hide_progress=false&layout=compact)
