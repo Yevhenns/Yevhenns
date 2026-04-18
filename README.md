@@ -21,5 +21,5 @@
 
 #### CAD / Mechanical:
 * SolidWorks
-* Autodesk Inventor(basic)
+* Autodesk Inventor
 * Mechanical design / 3D modeling
