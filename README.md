@@ -4,14 +4,22 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&labelColor=white)](https://t.me/Yevhen_1990)
 
 ### Technologies
+
 #### Frontend:
 * HTML, CSS, SCSS, Tailwind;
 * JavaScript, TypeScript;
 * React, Next.js, React-Native, Redux;
 * Vue.js, Nuxt, Pinia;
+* 
 #### Backend:
 * Node.js, Express, NestJS;
 * PostgreSQL, TypeORM, MongoDB;
+* 
 #### Embedded / Hardware:
 * C++ (basic, Arduino ecosystem);
 * Arduino, ESP32;
+
+#### CAD / Mechanical:
+* SolidWorks
+* Autodesk Inventor(basic)
+* Mechanical design / 3D modeling
