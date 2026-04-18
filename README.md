@@ -10,7 +10,7 @@
 * JavaScript, TypeScript;
 * React, Next.js, React-Native, Redux;
 * Vue.js, Nuxt, Pinia;
-* 
+
 #### Backend:
 * Node.js, Express, NestJS;
 * PostgreSQL, TypeORM, MongoDB;
