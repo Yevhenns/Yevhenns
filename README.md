@@ -14,7 +14,7 @@
 #### Backend:
 * Node.js, Express, NestJS;
 * PostgreSQL, TypeORM, MongoDB;
-* 
+
 #### Embedded / Hardware:
 * C++ (basic, Arduino ecosystem);
 * Arduino, ESP32;
