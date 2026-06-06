@@ -19,7 +19,8 @@
 * C++ (basic, Arduino ecosystem);
 * Arduino, ESP32;
 
-#### CAD / Mechanical:
-* SolidWorks
-* Autodesk Inventor
-* Mechanical design / 3D modeling
+#### CAD / CAM/ Mechanical:
+* SolidWorks, Autodesk Inventor;
+* SolidCam, IGEMS, ProNest;
+* Bambu Studio, 3D Printing;
+* Mechanical design / 3D modeling.
